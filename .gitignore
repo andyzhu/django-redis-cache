@@ -1,0 +1,6 @@
+.redis-cache/
+.vscode/
+__cpyache__/
+*.py[cod]
+*$py.class
+node_modules/
